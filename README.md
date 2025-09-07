@@ -1,16 +1,25 @@
-## Hi there 👋
+| 这个作业属于哪个课程 | [课程](https://edu.cnblogs.com/campus/gdgy/Class12Grade23ComputerScience) |
+| ----------------- |--------------- |
+| 这个作业要求在哪里| [作业要求](https://edu.cnblogs.com/campus/gdgy/Class12Grade23ComputerScience/homework/13469) |
+| 这个作业的目标 | 自我介绍，了解软件工程相关概念，同时熟悉博客网及Github和Git操作 |
 
-<!--
-**Scaler1024/Scaler1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 自我介绍
+- 喜欢听音乐，打球，吃饭，睡觉
+- 了解Java及其相关技术栈，了解docker原生态部署项目
+- 了解过关系型和非关系型数据库的区别和应用场景
 
-Here are some ideas to get you started:
+## 软件五问
+- 如何保证需求分析的全面性和准确性，并平衡各方因素的架构设计
+- 如何选择最适合项目的技术栈，避免为项目埋下隐患
+- 如何建立有效的质量保障体系，确保软件缺陷被尽早发现和修复
+- 如何设计安全可靠的部署发布流程，确保平稳上线并能快速应对意外
+- 如何保证软件上线后的长期可维护性，并平衡新功能开发与技术债务偿还
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 预期收获
+- 深入了解整个软件项目开发过程，形成工程化思维
+- 加强团队协作能力，熟悉git相关操作命令
+- 学会在有限约束下，生产出高质量的软件产品
+
+## Github仓库
+[仓库地址](https://github.com/Scaler1024/Scaler1024/edit/main)
+
